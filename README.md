@@ -1,7 +1,8 @@
 # alertWithoutMaskDetected
-Detect person without mask using PiCam and send notify, image to Android device connected with bluetooth.
-**This is default branch contains README, LICENSE, Images only for project introduction.**
-**If you want to get code, please switch to another branch."
+Detect person without mask using PiCam and send notify, image to Android device connected with bluetooth.<br>
+
+**This is a default branch that contains README, LICENSE, Images only for project introduction.**<br>
+**If you want to get code, please switch to another branch."**<br>
 * [Switch to android branch](https://github.com/DevJaewoo/alertWithoutMaskDetected/tree/android)
 * [Switch to python branch](https://github.com/DevJaewoo/alertWithoutMaskDetected/tree/python)
 
